@@ -1,0 +1,5 @@
+nltk
+pytrends
+certifi
+spacy
+keybert
